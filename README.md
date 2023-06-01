@@ -1,5 +1,5 @@
 # Tabs in HTML5
-Apresentando conteudo em abas usando javascript puro.
+- Apresentando conteudo em abas usando javascript puro.
 ### Technologias usadas:
 - `HTML`
 - `CSS`
