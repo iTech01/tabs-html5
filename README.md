@@ -1,12 +1,10 @@
 # Tabs in HTML5
-
-## Projeto:
-### Apresentando conteudo em abas usando javascript puro.
-## Technologias usadas:
+Apresentando conteudo em abas usando javascript puro.
+### Technologias usadas:
 - `HTML`
 - `CSS`
 - `Javascript`
-## Preview:
+### Preview:
 <p>
   <img src="https://i.imgur.com/aMpIY8i.png" alt="tabs-html"/>
 </p>
